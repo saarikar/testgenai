@@ -1,5 +1,6 @@
 # TestGen-AI
 [![TestGen-AI CI](https://github.com/saarikar/testgenai/actions/workflows/ci.yml/badge.svg)](https://github.com/saarikar/testgenai/actions/workflows/ci.yml)
+
 **Generate tests. Inspect the evidence.** A Python/FastAPI portfolio project for test automation, API testing, AI output evaluation, relational data, and observable execution.
 
 Submit Python, generate a pytest suite through Groq or OpenAI, execute it locally, and inspect test results, branch coverage, timings, and persistent run history. A separate evaluation harness checks whether the same generated suite passes correct code and catches deliberate bugs.
